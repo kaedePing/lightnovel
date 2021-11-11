@@ -1,2 +1,2 @@
-# lightnovel
-轻小说爬取
+# LightNovel
+scrapy novel
